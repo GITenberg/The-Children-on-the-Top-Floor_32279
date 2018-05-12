@@ -1,0 +1,34 @@
+_repo: The-Children-on-the-Top-Floor_32279
+_version: 0.1.0
+contributor:
+  illustrator:
+    agent_name: Davidson, Bertha G.
+    gutenberg_agent_id: '35728'
+    url: http://www.gutenberg.org/2009/agents/35728
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Rhoades, Nina
+    birthdate: 1863
+    deathdate: 1940
+    gutenberg_agent_id: '35766'
+    url: http://www.gutenberg.org/2009/agents/35766
+description: ''
+gutenberg_issued: '2010-05-07'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '32279'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Children -- Juvenile fiction'
+- !lcsh 'Children with disabilities -- Juvenile fiction'
+- !lcsh 'New York (State) -- Juvenile fiction'
+- !lcc 'PZ'
+- !lcsh 'Apartment houses -- Juvenile fiction'
+title: The Children on the Top Floor
+url: http://www.gutenberg.org/ebooks/32279
